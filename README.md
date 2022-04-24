@@ -1,1 +1,1 @@
-# SwiftUI-Basics
+# SwiftUI Basics
