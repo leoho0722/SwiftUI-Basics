@@ -8,7 +8,7 @@ App 最低安裝限制：iOS 15.0
 
 開發環境：Xcode 13.1、Xcode 13.3.1
 
-### Notes
+### Notes
 ```swift=
 // TextField
 .onChange(of: perform: ) // 當 TextField 值發生改變時，就會觸發
